@@ -1,0 +1,23 @@
+{
+  "name": "Blogen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbenro/blogen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gbenro/blogen/issues"
+  },
+  "homepage": "https://gbenro.github.io/blogen",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
